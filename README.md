@@ -1,1 +1,1 @@
-<img src="meow.jpg" alt="ufo">
+<img src="chowder.png" alt="ufo">
